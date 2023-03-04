@@ -13,7 +13,6 @@ public enum RegisterPageEnums {
 
 
     public final String value;
-
     RegisterPageEnums(String name) {
         this.value = name;
     }

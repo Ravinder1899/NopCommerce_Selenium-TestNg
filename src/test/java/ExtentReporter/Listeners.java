@@ -1,9 +1,7 @@
 package ExtentReporter;
 
 import org.testng.*;
-
 import java.io.IOException;
-
 import static ExtentReporter.ExtentReport.test;
 
 public class Listeners implements ITestListener, ISuiteListener {
